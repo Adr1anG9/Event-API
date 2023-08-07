@@ -1,6 +1,6 @@
 ## Event-API
 
-([DEMO](https://youtu.be/NxacUUI1yp0))
+([DEMO](https://youtu.be/VgdJlVD5zXc))
 
 
 Used:  Laravel Sanctum for API authentication 
@@ -12,8 +12,10 @@ password: root
 
 
 Steps to run for checking code functionality:
-	-> npm install
-	-> composer install
+	
+     -> npm install
+	
+     -> composer install
 
 	-> In the terminal root folder run:
 		-> docker compose up
